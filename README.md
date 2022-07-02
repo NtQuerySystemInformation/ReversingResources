@@ -1,7 +1,7 @@
 # ReversingResources
 Personal articles/websites/books that I look at for certain topics related to reversing malware and windows related topics.
 
-#Malware reverse engineering:
+# Malware reverse engineering:
 1.-Practical Reverse Engineering.
       -Covers nice topics related to x64/x86, not complete for the x64 Windows ABI tho, but still good read.
       -Specially because of the intro to kernel mode.
